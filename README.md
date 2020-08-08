@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Luciana, but feel free to call me Lu :)
+
+I am a software engineer very passionate about learning everything about Computer Science, Math, Arts and everything that lies in between these.
+
 <!--
 **LucianaMarques/lucianamarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
