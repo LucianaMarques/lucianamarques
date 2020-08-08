@@ -2,7 +2,7 @@
 
 My name is Luciana, but feel free to call me Lu :)
 
-I am a software engineer very passionate about learning everything about Computer Science, Math, Arts and everything that lies in between these.
+I am a software engineer very passionate about learning everything about Computer Science, Math, Arts, Robotics and everything that lies in between these.
 
 ![Luciana's github stats](https://github-readme-stats.vercel.app/api?username=lucianamarques&show_icons=true)
 
